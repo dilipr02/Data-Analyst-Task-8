@@ -2,6 +2,10 @@
 
 Hi, I have completed the task 8 of Simple Sales Dashboard Design.
 
+I have made the dashboard with 2019 superstore sales 
+and have included the bar chart , line chart and donut chart for the visualization of sales over the category, region and month. 
+The slicer visual for category.
+
 The following are the insights of the dashboard
 
 * December has the highest sales in west region in overall 2019 year.
